@@ -1,5 +1,5 @@
 # Currency Converter Website
-![gif](images/Currency%20Converter.gif)
+<img src="images/Currency%20Converter.gif" width="250" height="250"/>
 Made by Klaudia Kępka
 
 ## Currency Converter Demo Website:
