@@ -3,7 +3,7 @@
 Made by Klaudia Kępka
 
 ## Currency Converter Demo Website:
-[Currency Converter Demo Website](https://kepkaklaudia.github.io/currencyConverter/){:target="_blank"}
+[Currency Converter Demo Website](https://kepkaklaudia.github.io/currencyConverter/)
 
 ## Quick Preview
 ![gifPreview](images/preview.gif)
