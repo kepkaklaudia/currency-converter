@@ -1,9 +1,9 @@
 # Currency Converter Website
-![gif](images/Currency Converter.gif)
+![gif](images/Currency%20Converter.gif)
 Made by Klaudia Kępka
 
 ## Currency Converter Demo Website:
-https://kepkaklaudia.github.io/currencyConverter/
+[Currency Converter Demo Website](https://kepkaklaudia.github.io/currencyConverter/){:target="_blank"}
 
 ## Quick Preview
 ![gifPreview](images/preview.gif)
