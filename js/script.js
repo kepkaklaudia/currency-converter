@@ -19,7 +19,7 @@
 
   const updateResultText = (amount, rate) => {
     const amountElement = document.querySelector(".js-amount");
-    amountElement.innerText = `${amount.toFixed(2)} ${rate}`;
+    amountElement.innerText = `${amount.toFixed(2)}\u00A0${rate}`;
   }
 
   const onFormSubmit = (event) => {
