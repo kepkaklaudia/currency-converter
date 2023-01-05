@@ -1,11 +1,12 @@
-# Currency Converter Website
+# <img src="images/icon.png" height="30"/> Currency Converter Website
 <img src="images/Currency%20Converter.gif" width="250" height="250"/>
-Made by Klaudia Kępka
 
-## Currency Converter Demo Website:
+<img src="images/myIcons/kk.png" height="15"/> Made by Klaudia Kępka
+
+## <img src="images/myIcons/demo.png" height="20"/> Currency Converter Demo Website:
 [Currency Converter Demo Website](https://kepkaklaudia.github.io/currencyConverter/)
 
-## Quick Preview
+## <img src="images/myIcons/quick.png" height="20"/> Quick Preview
 ![gifPreview](images/preview.gif)
 
 ## First field
@@ -25,8 +26,4 @@ When you are in mobile mode (maximum width of screen: 600px) you can notice some
 The box is slightly smaller and the fields are arranged in one column to fit on mobile screens.
 
 ## Technologies used
-- HTML
-- CSS
-- JavaScript, ES6+ Features
-- BEM Convention
-- normalise.css
+<img src="images/myIcons/html.png" height="90"/> <img src="images/myIcons/css.png" height="90"/> <img src="images/myIcons/js.png" height="90"/> <img src="images/myIcons/es6.png" height="90"/> <img src="images/myIcons/bem.png" height="90"/> <img src="images/myIcons/norm.png" height="90"/>
